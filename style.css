@@ -1,0 +1,87 @@
+@import url("https://fonts.googleapis.com/css?family=Inter:400,900,600");
+
+.hidden, .hidden * {
+    pointer-events: none;
+    visibility: hidden;
+}
+
+.intro {
+    align-items: center;
+    background: linear-gradient(180deg, rgb(54.00000058114529, 0, 51.00000075995922) 0%, rgb(11.000000294297934, 135.00000715255737, 147.00000643730164) 100%);
+    background-color: rgba(255,255,255,1);
+    display: flex;
+    flex-direction: column;
+}
+
+.overlap-group {
+    height: 31px;
+    margin-top: 102px;
+    position: relative;
+    width: 386px;
+}
+
+.vector {
+    height: 25px;
+    left: 0;
+    position: absolute;
+    top: 3px;
+    width: 32px;
+}
+
+.infohexishealthgroupcom {
+    align-items: flex-start;
+    display: flex;
+    height: 31px;
+    left: 32px;
+    min-width: 354px;
+    position: absolute;
+    top: 0;
+    margin-left: 10px !important;
+}
+
+.infohexishealthgroupcom-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  min-height: 31px;
+}
+
+.span1 {
+    color: rgb(255,255,255) !important;
+    text-decoration: underline;
+}
+
+.we-are-building-the {
+    color: rgb(255,255,255) !important;
+    font-family: var(--font-family-inter);
+    font-size: 26px;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: 152px;
+    min-height: 77px;
+    text-align: center;
+}
+
+.valign-text-middle {
+    color: rgb(255,255,255) !important;
+    font-size: 140px !important;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.title {
+    color: var(--white);
+    font-family: var(--font-family-inter);
+    font-size: var(--font-size-l);
+    font-weight: 900;
+    height: 102px;
+    letter-spacing: 98px;
+    line-height: normal;
+    margin-right: 59px;
+    min-width: 825px;
+    text-align: center;
+    text-shadow: 0px 4px 4px #00000040;
+    white-space: nowrap;
+}
