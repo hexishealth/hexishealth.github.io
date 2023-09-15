@@ -11,6 +11,7 @@
     background-color: rgba(255,255,255,1);
     display: flex;
     flex-direction: column;
+    padding-bottom: 50px;
 }
 
 .overlap-group {
@@ -84,5 +85,4 @@
     text-align: center;
     text-shadow: 0px 4px 4px #00000040;
     white-space: nowrap;
-    padding-bottom: 50px;
 }
